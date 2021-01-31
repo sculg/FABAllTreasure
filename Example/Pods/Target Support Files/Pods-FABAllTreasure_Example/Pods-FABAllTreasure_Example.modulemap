@@ -1,0 +1,6 @@
+framework module Pods_FABAllTreasure_Example {
+  umbrella header "Pods-FABAllTreasure_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

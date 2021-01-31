@@ -1,0 +1,16 @@
+PODS:
+  - FABAllTreasure (0.1.0)
+
+DEPENDENCIES:
+  - FABAllTreasure (from `../`)
+
+EXTERNAL SOURCES:
+  FABAllTreasure:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FABAllTreasure: b6588d81a0ef5b433d43d58b11c18465b7db1dde
+
+PODFILE CHECKSUM: 8cee802d21bf83a270bb9bc06ddf17bd772a9972
+
+COCOAPODS: 1.10.0
